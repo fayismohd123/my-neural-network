@@ -30,7 +30,7 @@ README.md # Project description
 ## ▶️ How to Run
 
 ### 1. Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/fayismohd123/my-neural-network.git
 cd your-repo-name
 
 2. Create virtual environment (optional):
